@@ -17,8 +17,7 @@ import DeleteUser from "./DeleteUser";
 import auth from "./../auth/auth-helper";
 import { read } from "./api-user.js";
 import { useNavigate, useParams, Link } from "react-router-dom";
-import stripeButton from "../img/stripeButton.png";
-import config from "../config/config";
+import config from "../../config/config";
 
 const useStyles = makeStyles((theme) => ({
   root: theme.mixins.gutters({
@@ -95,7 +94,10 @@ export default function Profile() {
                     }
                     className={classes.stripe_connect}
                   >
-                    <img src={stripeButton} alt="stripe-button" />
+                    <img
+                      src="public/images/stripeButton.png"
+                      alt="stripe-button"
+                    />
                   </a>
                 ))}
               <Link to={"/user/edit/" + user._id}>

@@ -1,4 +1,4 @@
-import config from "../config/config";
+import config from "../../config/config";
 
 const create = async (params, credentials, order, token) => {
   try {
