@@ -14,7 +14,7 @@ My goal was to build an online marketplace for used items. This would include a 
 - Example CSS: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/core/Home.css#L1)
 - Product component: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/product/Product.js#L63)
 - Shopping Cart component: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/cart/Cart.js#L16)
-  The application fetches data from a backend API that I built as part of the project.
+- The application fetches data from a backend API that I built as part of the project.
 - Requests to API for authentication: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/auth/api-auth.js#L3)
 - Requests to API for product content: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/product/api-product.js#L5)
 
