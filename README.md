@@ -10,24 +10,19 @@ My goal was to build an online marketplace for used items. This would include a 
 
 ### Frontend
 
-- Some stateful logic: [link to stateful logic]
-- Example CSS: [link to css from homepage]
-- Product component: [link]
-- Shopping Cart component: [link]
-  The application fetched data from a backend API that I built as part of the project.
-- Requests to API for authentication: [link]
-- Requests to API for video content: [link]
+- Some stateful logic: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/product/EditProduct.js#L60)
+- Example CSS: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/core/Home.css#L1)
+- Product component: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/product/Product.js#L63)
+- Shopping Cart component: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/cart/Cart.js#L16)
+  The application fetches data from a backend API that I built as part of the project.
+- Requests to API for authentication: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/auth/api-auth.js#L3)
+- Requests to API for product content: [Click here](https://github.com/Lambertyubin/marketplace_frontend/blob/main/src/components/product/api-product.js#L5)
 
-- Integration tests using React Testing Library [link to example test]
+- Integration tests using React Testing Library
 
 ### Backend
 
-- Express.js middleware: [link]
-- API entry routes: [link to routes]
-- Server-side logic to handle CRUD operations
-- Product model with Mongoose: [link]
-- Application logic to retrieve data from the MongoDB database: [link]
-- I tested this API's CRUD operations using Postman
+- Link to the backend: [Click here](https://github.com/Lambertyubin/marketplace_backend)
 
 ## Why I built the project this way
 
