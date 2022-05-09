@@ -42,8 +42,6 @@ Testing is an essential part of production applications. Testing Library is the 
 ## During my extra time, I intend to improve the following:
 
 - Complete the frontend to have a fully-responsive UI based on some cool Figma designs
-- Set up continuous integration to run the tests
-- Add end-to-end tests with Cypress
 
 ## Available Scripts
 
